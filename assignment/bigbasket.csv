@@ -1,0 +1,441 @@
+category,sub-category,sub-sub-category,brand_slug,brand_name,brand_id
+Fruits & Vegetables,Fresh Vegetables,"Potato, Onion & Tomato",fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,Cucumber & Capsicum,fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,Leafy Vegetables,fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,Root Vegetables,fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,"Beans, Brinjals & Okra",fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,Cabbage & Cauliflower,fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,"Gourd, Pumpkin, Drumstick",fresho,Fresho,1847
+Fruits & Vegetables,Fresh Vegetables,Specialty,fresho,Fresho,1847
+Fruits & Vegetables,Herbs & Seasonings,"Lemon, Ginger & Garlic",fresho-premium,Fresho Premium,21466
+Fruits & Vegetables,Herbs & Seasonings,Indian & Exotic Herbs,fresho-premium,Fresho Premium,21466
+Fruits & Vegetables,Fresh Fruits,"Banana, Sapota & Papaya",bb-combo,bb Combo,19705
+Fruits & Vegetables,Fresh Fruits,"Kiwi, Melon, Citrus Fruit",bb-combo,bb Combo,19705
+Fruits & Vegetables,Fresh Fruits,Apples & Pomegranate,bb-combo,bb Combo,19705
+Fruits & Vegetables,Fresh Fruits,Seasonal Fruits,bb-combo,bb Combo,19705
+Fruits & Vegetables,Fresh Fruits,Mangoes,bb-combo,bb Combo,19705
+Fruits & Vegetables,Fresh Fruits,Fruit Baskets,bb-combo,bb Combo,19705
+Fruits & Vegetables,Organic Fruits & Vegetables,Organic Vegetables,usa,USA,14835
+Fruits & Vegetables,Organic Fruits & Vegetables,Organic Fruits,usa,USA,14835
+Fruits & Vegetables,Cuts & Sprouts,"Cut Fruit, Tender Coconut",hoovu-fresh,Hoovu Fresh,25409
+Fruits & Vegetables,Cuts & Sprouts,Cut & Peeled Veggies,hoovu-fresh,Hoovu Fresh,25409
+Fruits & Vegetables,Cuts & Sprouts,Fresh Salads & Sprouts,hoovu-fresh,Hoovu Fresh,25409
+Fruits & Vegetables,Cuts & Sprouts,Recipe Packs,hoovu-fresh,Hoovu Fresh,25409
+Fruits & Vegetables,Exotic Fruits & Veggies,Exotic Vegetables,organic,Organic,1500
+Fruits & Vegetables,Exotic Fruits & Veggies,Exotic Fruits,organic,Organic,1500
+Fruits & Vegetables,"Flower Bouquets, Bunches",Marigold,fresho,Fresho,1847
+Fruits & Vegetables,"Flower Bouquets, Bunches",Other Flowers,fresho,Fresho,1847
+Fruits & Vegetables,"Flower Bouquets, Bunches",Roses,fresho,Fresho,1847
+"Foodgrains, Oil & Masala","Atta, Flours & Sooji",Atta Whole Wheat,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala","Atta, Flours & Sooji","Sooji, Maida & Besan",bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala","Atta, Flours & Sooji",Rice & Other Flours,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala",Rice & Rice Products,Raw Rice,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Rice & Rice Products,"Poha, Sabudana & Murmura",bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Rice & Rice Products,Basmati Rice,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Rice & Rice Products,Boiled & Steam Rice,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Dals & Pulses,"Toor, Channa & Moong Dal",aashirvaad,Aashirvaad,483
+"Foodgrains, Oil & Masala",Dals & Pulses,Cereals & Millets,aashirvaad,Aashirvaad,483
+"Foodgrains, Oil & Masala",Dals & Pulses,Urad & Other Dals,aashirvaad,Aashirvaad,483
+"Foodgrains, Oil & Masala",Organic Staples,Organic Dry Fruits,tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,Organic Dals & Pulses,tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,Organic Millet & Flours,tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,"Organic Sugar, Jaggery",tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,Organic Masalas & Spices,tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,"Organic Rice, Other Rice",tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,Organic Flours,tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Organic Staples,"Organic Edible Oil, Ghee",tata-sampann,Tata Sampann,14727
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Blended Cooking Oils,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,"Sunflower, Rice Bran Oil",bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Soya & Mustard Oils,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Ghee & Vanaspati,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Gingelly Oil,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Groundnut Oil,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Cooking Coconut Oil,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Olive & Canola Oils,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Other Edible Oils,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala",Edible Oils & Ghee,Cold Pressed Oil,bb-combo,bb Combo,19705
+"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",Sugar & Jaggery,sunpure,Sunpure ,900
+"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",Salts,sunpure,Sunpure ,900
+"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",Sugarfree Sweeteners,sunpure,Sunpure ,900
+"Foodgrains, Oil & Masala",Masalas & Spices,Whole Spices,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala",Masalas & Spices,Powdered Spices,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala",Masalas & Spices,Cooking Pastes,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala",Masalas & Spices,Herbs & Seasoning,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala",Masalas & Spices,Blended Masalas,bb-royal,BB Royal,1844
+"Foodgrains, Oil & Masala",Dry Fruits,Almonds,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Dry Fruits,Cashews,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Dry Fruits,Raisins,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Dry Fruits,Mukhwas,bb-popular,BB Popular,1845
+"Foodgrains, Oil & Masala",Dry Fruits,Other Dry Fruits,bb-popular,BB Popular,1845
+"Bakery, Cakes & Dairy",Dairy,Milk,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,Curd,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,"Paneer, Tofu & Cream",britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,Butter & Margarine,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,"Condensed, Powdered Milk",britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,Cheese,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,Buttermilk & Lassi,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,Yogurt & Shrikhand,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Dairy,"Flavoured, Soya Milk",britannia,Britannia,496
+"Bakery, Cakes & Dairy",Breads & Buns,"Brown, Wheat & Multigrain",amul,Amul,393
+"Bakery, Cakes & Dairy",Breads & Buns,"Milk, White & Sandwich",amul,Amul,393
+"Bakery, Cakes & Dairy",Breads & Buns,"Buns, Pavs & Pizza Base",amul,Amul,393
+"Bakery, Cakes & Dairy",Non Dairy,Dairy Free (Vegan),milky-mist,Milky Mist,787
+"Bakery, Cakes & Dairy",Gourmet Breads,"Croissants, Bagels",nandini,Nandini,539
+"Bakery, Cakes & Dairy",Gourmet Breads,"Panini, Focaccia & Pita",nandini,Nandini,539
+"Bakery, Cakes & Dairy",Gourmet Breads,Bagels & Baguette,nandini,Nandini,539
+"Bakery, Cakes & Dairy",Gourmet Breads,Gourmet Bread,nandini,Nandini,539
+"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Rusks,fresho,Fresho,1847
+"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Khari & Cream Rolls,fresho,Fresho,1847
+"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Premium Cookies,fresho,Fresho,1847
+"Bakery, Cakes & Dairy","Cookies, Rusk & Khari","Bakery Biscuits, Cookies",fresho,Fresho,1847
+"Bakery, Cakes & Dairy",Ice Creams & Desserts,Ice Creams,bb-combo,bb Combo,19705
+"Bakery, Cakes & Dairy",Bakery Snacks,Bread Sticks & Lavash,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Bakery Snacks,Cheese & Garlic Bread,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Bakery Snacks,"Puffs, Patties, Sandwiches",britannia,Britannia,496
+"Bakery, Cakes & Dairy",Bakery Snacks,Breadcrumbs & Croutons,britannia,Britannia,496
+"Bakery, Cakes & Dairy",Cakes & Pastries,Tea Cakes & Slice Cakes,amul,Amul,393
+"Bakery, Cakes & Dairy",Cakes & Pastries,Muffins & Cup Cakes,amul,Amul,393
+"Bakery, Cakes & Dairy",Cakes & Pastries,Pastries & Brownies,amul,Amul,393
+"Bakery, Cakes & Dairy",Cakes & Pastries,Birthday & Party Cakes,amul,Amul,393
+"Bakery, Cakes & Dairy",Cakes & Pastries,Doughnuts & Mousses,amul,Amul,393
+Beverages,Energy & Soft Drinks,Soda & Cocktail Mix,fresho,Fresho,1847
+Beverages,Energy & Soft Drinks,Cold Drinks,fresho,Fresho,1847
+Beverages,Energy & Soft Drinks,Sports & Energy Drinks,fresho,Fresho,1847
+Beverages,Energy & Soft Drinks,Non Alcoholic Drinks,fresho,Fresho,1847
+Beverages,Water,Packaged Water,red-label,Red Label,9158
+Beverages,Water,Spring Water,red-label,Red Label,9158
+Beverages,"Health Drink, Supplement",Kids (5+Yrs),cadbury-bournvita,Cadbury Bournvita,222
+Beverages,"Health Drink, Supplement",Children (2-5 Yrs),cadbury-bournvita,Cadbury Bournvita,222
+Beverages,"Health Drink, Supplement",Men & Women,cadbury-bournvita,Cadbury Bournvita,222
+Beverages,"Health Drink, Supplement",Diabetic Drinks,cadbury-bournvita,Cadbury Bournvita,222
+Beverages,"Health Drink, Supplement","Glucose Powder, Tablets",cadbury-bournvita,Cadbury Bournvita,222
+Beverages,Tea,Leaf & Dust Tea,taj-mahal,Taj Mahal,2091
+Beverages,Tea,Green Tea,taj-mahal,Taj Mahal,2091
+Beverages,Tea,Exotic & Flavoured Tea,taj-mahal,Taj Mahal,2091
+Beverages,Tea,Tea Bags,taj-mahal,Taj Mahal,2091
+Beverages,Coffee,Ground Coffee,bb-combo,bb Combo,19705
+Beverages,Coffee,Instant Coffee,bb-combo,bb Combo,19705
+Beverages,Fruit Juices & Drinks,"Unsweetened, Cold Press",coca-cola,Coca Cola,75
+Beverages,Fruit Juices & Drinks,Juices,coca-cola,Coca Cola,75
+Beverages,Fruit Juices & Drinks,Syrups & Concentrates,coca-cola,Coca Cola,75
+Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Instant Noodles,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Hakka Noodles,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Cup Noodles,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Vermicelli,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Instant Pasta,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Pasta & Macaroni,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Breakfast Cereals,Oats & Porridge,britannia,Britannia,496
+Snacks & Branded Foods,Breakfast Cereals,Kids Cereal,britannia,Britannia,496
+Snacks & Branded Foods,Breakfast Cereals,Muesli,britannia,Britannia,496
+Snacks & Branded Foods,Breakfast Cereals,Flakes,britannia,Britannia,496
+Snacks & Branded Foods,Breakfast Cereals,Granola & Cereal Bars,britannia,Britannia,496
+Snacks & Branded Foods,Frozen Veggies & Snacks,Frozen Vegetables,bingo,Bingo,928
+Snacks & Branded Foods,Frozen Veggies & Snacks,Frozen Indian Breads,bingo,Bingo,928
+Snacks & Branded Foods,Frozen Veggies & Snacks,Frozen Veg Snacks,bingo,Bingo,928
+Snacks & Branded Foods,Frozen Veggies & Snacks,Frozen Non-Veg Snacks,bingo,Bingo,928
+Snacks & Branded Foods,Biscuits & Cookies,Salted Biscuits,cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Biscuits & Cookies,"Marie, Health, Digestive",cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Biscuits & Cookies,Cream Biscuits & Wafers,cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Biscuits & Cookies,Glucose & Milk Biscuits,cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Biscuits & Cookies,Cookies,cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Snacks & Namkeen,Chips & Corn Snacks,sunfeast,Sunfeast,37
+Snacks & Branded Foods,Snacks & Namkeen,Namkeen & Savoury Snacks,sunfeast,Sunfeast,37
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Honey,haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Mayonnaise,haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Tomato Ketchup & Sauces,haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup","Jam, Conserve, Marmalade",haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Chilli & Soya Sauce,haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Choco & Nut Spread,haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Vinegar,haldirams,Haldirams ,902
+Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Dips & Dressings,haldirams,Haldirams ,902
+Snacks & Branded Foods,Ready To Cook & Eat,Breakfast & Snack Mixes,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Ready To Cook & Eat,Soups,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Ready To Cook & Eat,Home Baking,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Ready To Cook & Eat,"Papads, Ready To Fry",cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Ready To Cook & Eat,Heat & Eat Ready Meals,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Ready To Cook & Eat,Dessert Mixes,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Ready To Cook & Eat,Canned Food,cadbury-dairy-milk,Cadbury Dairy Milk,6501
+Snacks & Branded Foods,Chocolates & Candies,Chocolates,britannia,Britannia,496
+Snacks & Branded Foods,Chocolates & Candies,"Toffee, Candy & Lollypop",britannia,Britannia,496
+Snacks & Branded Foods,Chocolates & Candies,Mints & Chewing Gum,britannia,Britannia,496
+Snacks & Branded Foods,Chocolates & Candies,Gift Boxes,britannia,Britannia,496
+Snacks & Branded Foods,Pickles & Chutney,Chutney Powder,bingo,Bingo,928
+Snacks & Branded Foods,Pickles & Chutney,Lime & Mango Pickle,bingo,Bingo,928
+Snacks & Branded Foods,Pickles & Chutney,Other Veg Pickle,bingo,Bingo,928
+Snacks & Branded Foods,Pickles & Chutney,Non Veg Pickle,bingo,Bingo,928
+Snacks & Branded Foods,Indian Mithai,Chikki & Gajjak,cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Indian Mithai,"Tinned, Packed Sweets",cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Snacks & Branded Foods,Indian Mithai,Fresh Sweets,cadbury-dairy-milk-silk,Cadbury Dairy Milk Silk,19786
+Beauty & Hygiene,Oral Care,Toothpaste,dettol,Dettol,30
+Beauty & Hygiene,Oral Care,Mouthwash,dettol,Dettol,30
+Beauty & Hygiene,Oral Care,Toothbrush,dettol,Dettol,30
+Beauty & Hygiene,Oral Care,Floss & Tongue Cleaner,dettol,Dettol,30
+Beauty & Hygiene,Oral Care,Electric Toothbrush,dettol,Dettol,30
+Beauty & Hygiene,Feminine Hygiene,Sanitary Napkins,dove,Dove,26
+Beauty & Hygiene,Feminine Hygiene,Panty Liners,dove,Dove,26
+Beauty & Hygiene,Feminine Hygiene,Intimate Wash & Care,dove,Dove,26
+Beauty & Hygiene,Feminine Hygiene,Hair Removal,dove,Dove,26
+Beauty & Hygiene,Feminine Hygiene,Tampons & Menstrual Cups,dove,Dove,26
+Beauty & Hygiene,Bath & Hand Wash,Hand Wash & Sanitizers,colgate,Colgate,418
+Beauty & Hygiene,Bath & Hand Wash,Bathing Bars & Soaps,colgate,Colgate,418
+Beauty & Hygiene,Bath & Hand Wash,Shower Gel & Body Wash,colgate,Colgate,418
+Beauty & Hygiene,Bath & Hand Wash,Talcum Powder,colgate,Colgate,418
+Beauty & Hygiene,Bath & Hand Wash,Bathing Accessories,colgate,Colgate,418
+Beauty & Hygiene,Bath & Hand Wash,Bath Salts & Oils,colgate,Colgate,418
+Beauty & Hygiene,Bath & Hand Wash,Body Scrubs & Exfoliants,colgate,Colgate,418
+Beauty & Hygiene,Hair Care,Hair Color,nivea,Nivea,12
+Beauty & Hygiene,Hair Care,Hair Oil & Serum,nivea,Nivea,12
+Beauty & Hygiene,Hair Care,Shampoo & Conditioner,nivea,Nivea,12
+Beauty & Hygiene,Hair Care,Hair & Scalp Treatment,nivea,Nivea,12
+Beauty & Hygiene,Hair Care,Hair Styling,nivea,Nivea,12
+Beauty & Hygiene,Hair Care,Dry Shampoo & Conditioner,nivea,Nivea,12
+Beauty & Hygiene,Hair Care,Tools & Accessories,nivea,Nivea,12
+Beauty & Hygiene,Health & Medicine,Antiseptics & Bandages,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Cotton & Ear Buds,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Everyday Medicine,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Sexual Wellness,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Face Masks & Safety Gears,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Ayurveda,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Supplements & Proteins,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Adult Diapers,lakme,Lakme,112
+Beauty & Hygiene,Health & Medicine,Slimming Products,lakme,Lakme,112
+Beauty & Hygiene,Men's Grooming,Shaving Care,pears,Pears,22
+Beauty & Hygiene,Men's Grooming,Face & Body,pears,Pears,22
+Beauty & Hygiene,Men's Grooming,Bath & Shower,pears,Pears,22
+Beauty & Hygiene,Men's Grooming,Talc,pears,Pears,22
+Beauty & Hygiene,Men's Grooming,Hair Care & Styling,pears,Pears,22
+Beauty & Hygiene,Men's Grooming,Moustache & Beard Care,pears,Pears,22
+Beauty & Hygiene,Men's Grooming,Combos & Gift Sets,pears,Pears,22
+Beauty & Hygiene,Skin Care,Body Care,dettol,Dettol,30
+Beauty & Hygiene,Skin Care,Face Care,dettol,Dettol,30
+Beauty & Hygiene,Skin Care,Lip Care,dettol,Dettol,30
+Beauty & Hygiene,Skin Care,Eye Care,dettol,Dettol,30
+Beauty & Hygiene,Skin Care,Aromatherapy,dettol,Dettol,30
+Beauty & Hygiene,Makeup,Nails,dove,Dove,26
+Beauty & Hygiene,Makeup,Face,dove,Dove,26
+Beauty & Hygiene,Makeup,Lips,dove,Dove,26
+Beauty & Hygiene,Makeup,Eyes,dove,Dove,26
+Beauty & Hygiene,Makeup,Makeup Accessories,dove,Dove,26
+Beauty & Hygiene,Makeup,Makeup Kits & Gift Sets,dove,Dove,26
+Beauty & Hygiene,Fragrances & Deos,Gift Sets,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Women's Deodorants,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Men's Deodorants,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Perfume,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Eau De Cologne,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Body Sprays & Mists,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Eau De Parfum,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Eau De Toilette,colgate,Colgate,418
+Beauty & Hygiene,Fragrances & Deos,Attar,colgate,Colgate,418
+Cleaning & Household,Detergents & Dishwash,"Detergent Powder, Liquid",harpic,Harpic,569
+Cleaning & Household,Detergents & Dishwash,"Fabric Pre, Post Wash",harpic,Harpic,569
+Cleaning & Household,Detergents & Dishwash,Dishwash Liquids & Pastes,harpic,Harpic,569
+Cleaning & Household,Detergents & Dishwash,Dishwash Bars & Powders,harpic,Harpic,569
+Cleaning & Household,Detergents & Dishwash,Detergent Bars,harpic,Harpic,569
+Cleaning & Household,All Purpose Cleaners,Toilet Cleaners,surf-excel,Surf Excel,445
+Cleaning & Household,All Purpose Cleaners,"Kitchen, Glass & Drain",surf-excel,Surf Excel,445
+Cleaning & Household,All Purpose Cleaners,Floor & Other Cleaners,surf-excel,Surf Excel,445
+Cleaning & Household,All Purpose Cleaners,Disinfectant Spray & Cleaners,surf-excel,Surf Excel,445
+Cleaning & Household,All Purpose Cleaners,Descaler,surf-excel,Surf Excel,445
+Cleaning & Household,All Purpose Cleaners,"Metal, Furniture Cleaner",surf-excel,Surf Excel,445
+Cleaning & Household,All Purpose Cleaners,Imported Cleaners,surf-excel,Surf Excel,445
+Cleaning & Household,"Disposables, Garbage Bag",Kitchen Rolls,lizol,Lizol,570
+Cleaning & Household,"Disposables, Garbage Bag","Wet Wipe, Pocket Tissues",lizol,Lizol,570
+Cleaning & Household,"Disposables, Garbage Bag",Garbage Bags,lizol,Lizol,570
+Cleaning & Household,"Disposables, Garbage Bag",Toilet Paper,lizol,Lizol,570
+Cleaning & Household,"Disposables, Garbage Bag","Aluminium Foil, Clingwrap",lizol,Lizol,570
+Cleaning & Household,"Disposables, Garbage Bag","Paper Napkin, Tissue Box",lizol,Lizol,570
+Cleaning & Household,Fresheners & Repellents,Insect Repellent,ariel,Ariel,941
+Cleaning & Household,Fresheners & Repellents,Mosquito Repellent,ariel,Ariel,941
+Cleaning & Household,Fresheners & Repellents,Air Freshener,ariel,Ariel,941
+Cleaning & Household,"Mops, Brushes & Scrubs","Utensil Scrub-Pad, Glove",vim,Vim,576
+Cleaning & Household,"Mops, Brushes & Scrubs",Brooms & Dust Pans,vim,Vim,576
+Cleaning & Household,"Mops, Brushes & Scrubs",Dust Cloth & Wipes,vim,Vim,576
+Cleaning & Household,"Mops, Brushes & Scrubs","Mops, Wipers",vim,Vim,576
+Cleaning & Household,"Mops, Brushes & Scrubs",Toilet & Other Brushes,vim,Vim,576
+Cleaning & Household,Car & Shoe Care,Car Freshener,bb-home,BB Home,21368
+Cleaning & Household,Car & Shoe Care,Shoe Polish,bb-home,BB Home,21368
+Cleaning & Household,Car & Shoe Care,Car Polish & Cleaners,bb-home,BB Home,21368
+Cleaning & Household,Car & Shoe Care,Shoe Shiners & Brushes,bb-home,BB Home,21368
+Cleaning & Household,Pooja Needs,Camphor & Wicks,harpic,Harpic,569
+Cleaning & Household,Pooja Needs,Lamp & Lamp Oil,harpic,Harpic,569
+Cleaning & Household,Pooja Needs,Candles & Match Box,harpic,Harpic,569
+Cleaning & Household,Pooja Needs,"Agarbatti, Incense Sticks",harpic,Harpic,569
+Cleaning & Household,Pooja Needs,Other Pooja Needs,harpic,Harpic,569
+Cleaning & Household,Pooja Needs,Pooja Thali & Bells,harpic,Harpic,569
+Cleaning & Household,Stationery,"Notebooks, Files, Folders",surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,"Scissor, Glue & Tape",surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,"Pen, Pencils",surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,Colours & Crayons,surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,Erasers & Sharpeners,surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,Exam Pads & Pencil Box,surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,Games & Calculators,surf-excel,Surf Excel,445
+Cleaning & Household,Stationery,Electronic Accessories,surf-excel,Surf Excel,445
+Cleaning & Household,Bins & Bathroom Ware,"Hangers, Clips & Rope",lizol,Lizol,570
+Cleaning & Household,Bins & Bathroom Ware,Buckets & Mugs,lizol,Lizol,570
+Cleaning & Household,Bins & Bathroom Ware,Dustbins,lizol,Lizol,570
+Cleaning & Household,Bins & Bathroom Ware,"Laundry, Storage Baskets",lizol,Lizol,570
+Cleaning & Household,Bins & Bathroom Ware,Soap Cases & Dispensers,lizol,Lizol,570
+Cleaning & Household,Bins & Bathroom Ware,"Bath Stool, Basin & Sets",lizol,Lizol,570
+Cleaning & Household,Bins & Bathroom Ware,Other Plastic Ware,lizol,Lizol,570
+Cleaning & Household,Party & Festive Needs,Disposable Cups & Plates,ariel,Ariel,941
+Cleaning & Household,Party & Festive Needs,"Caps, Balloons & Candles",ariel,Ariel,941
+Cleaning & Household,Party & Festive Needs,Gift Wraps & Bags,ariel,Ariel,941
+Cleaning & Household,Party & Festive Needs,Decorations,ariel,Ariel,941
+Cleaning & Household,Party & Festive Needs,Seasonal Accessories,ariel,Ariel,941
+Cleaning & Household,Party & Festive Needs,Gifts,ariel,Ariel,941
+"Kitchen, Garden & Pets",Pet Food & Accessories,Pet Meals & Treats,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Pet Food & Accessories,Pet Feeding Support,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Pet Food & Accessories,Pet Cleaning & Grooming,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Pet Food & Accessories,Pet Collars & Leashes,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Pet Food & Accessories,Pet Toys,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Appliances & Electricals,Battery & Electrical,bb-home,BB Home,21368
+"Kitchen, Garden & Pets",Appliances & Electricals,LED Bulbs & Battens,bb-home,BB Home,21368
+"Kitchen, Garden & Pets",Steel Utensils,Steel Storage Containers,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Steel Utensils,Plates & Tumblers,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Steel Utensils,Copper Utensils,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Steel Utensils,Bowls & Vessels,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Steel Utensils,Steel Lunch Boxes,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Gardening,Fertilizers & Pesticides,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Gardening,Gardening Tools,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Gardening,"Pots, Planters & Trays",whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Gardening,Seeds & Sapling,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Kitchen Accessories,Lighters,eveready,Eveready,543
+"Kitchen, Garden & Pets",Kitchen Accessories,"Strainer, Ladle, Spatula",eveready,Eveready,543
+"Kitchen, Garden & Pets",Kitchen Accessories,Choppers & Graters,eveready,Eveready,543
+"Kitchen, Garden & Pets",Kitchen Accessories,Kitchen Tools & Other Accessories,eveready,Eveready,543
+"Kitchen, Garden & Pets",Kitchen Accessories,Knives & Peelers,eveready,Eveready,543
+"Kitchen, Garden & Pets",Cookware & Non Stick,Gas Stove,duracell,Duracell,946
+"Kitchen, Garden & Pets",Cookware & Non Stick,Tawa & Sauce Pan,duracell,Duracell,946
+"Kitchen, Garden & Pets",Cookware & Non Stick,Pressure Cookers,duracell,Duracell,946
+"Kitchen, Garden & Pets",Cookware & Non Stick,Cookware Sets,duracell,Duracell,946
+"Kitchen, Garden & Pets",Cookware & Non Stick,Kadai & Fry Pans,duracell,Duracell,946
+"Kitchen, Garden & Pets",Cookware & Non Stick,Cook And Serve,duracell,Duracell,946
+"Kitchen, Garden & Pets",Cookware & Non Stick,Microwavable Cookware,duracell,Duracell,946
+"Kitchen, Garden & Pets",Flask & Casserole,Vacuum Flask,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Flask & Casserole,Casserole,pedigree,Pedigree,312
+"Kitchen, Garden & Pets",Bakeware,Baking Tools & Brushes,bb-home,BB Home,21368
+"Kitchen, Garden & Pets",Bakeware,Bakeware Accessories,bb-home,BB Home,21368
+"Kitchen, Garden & Pets",Bakeware,"Bakeware Moulds, Cutters",bb-home,BB Home,21368
+"Kitchen, Garden & Pets",Crockery & Cutlery,Glassware,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Crockery & Cutlery,"Cups, Mugs & Tumblers",natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Crockery & Cutlery,Plates & Bowls,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Crockery & Cutlery,Dinner Sets,natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Crockery & Cutlery,"Cutlery, Spoon & Fork",natures-plus,NATURES PLUS,2585
+"Kitchen, Garden & Pets",Storage & Accessories,Wall Hooks & Hangers,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Storage & Accessories,Containers Sets,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Storage & Accessories,Water & Fridge Bottles,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Storage & Accessories,Umbrella,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Storage & Accessories,Racks & Holders,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Storage & Accessories,Lunch Boxes,whiskas,Whiskas,794
+"Kitchen, Garden & Pets",Storage & Accessories,Cloth Dryer & Iron Table,whiskas,Whiskas,794
+"Eggs, Meat & Fish",Eggs,Farm Eggs,fresho,Fresho,1847
+"Eggs, Meat & Fish",Eggs,Country Eggs,fresho,Fresho,1847
+"Eggs, Meat & Fish",Eggs,Protein Eggs,fresho,Fresho,1847
+"Eggs, Meat & Fish",Eggs,Organic Eggs,fresho,Fresho,1847
+"Eggs, Meat & Fish",Eggs,Other Eggs,fresho,Fresho,1847
+"Eggs, Meat & Fish",Poultry,Turkey,farm-made,Farm Made,18720
+"Eggs, Meat & Fish",Poultry,Fresh Chicken,farm-made,Farm Made,18720
+"Eggs, Meat & Fish",Poultry,Frozen Chicken,farm-made,Farm Made,18720
+"Eggs, Meat & Fish","Sausages, Bacon & Salami",Chicken Sausages,eggoz,Eggoz,24432
+"Eggs, Meat & Fish","Sausages, Bacon & Salami",Pork & Ham,eggoz,Eggoz,24432
+"Eggs, Meat & Fish","Sausages, Bacon & Salami",Turkey & Duck,eggoz,Eggoz,24432
+"Eggs, Meat & Fish","Sausages, Bacon & Salami",Lamb,eggoz,Eggoz,24432
+"Eggs, Meat & Fish",Mutton & Lamb,Fresh Mutton,best,Best,1267
+"Eggs, Meat & Fish",Mutton & Lamb,Frozen Mutton,best,Best,1267
+"Eggs, Meat & Fish",Marinades,Marinated Meat,fresho-signature,Fresho Signature,13500
+"Eggs, Meat & Fish",Fish & Seafood,Fresh Water Fish,upf,UPF,22008
+"Eggs, Meat & Fish",Fish & Seafood,Dry Fish,upf,UPF,22008
+"Eggs, Meat & Fish",Fish & Seafood,Frozen Fish & Seafood,upf,UPF,22008
+"Eggs, Meat & Fish",Fish & Seafood,Marine Water Fish,upf,UPF,22008
+"Eggs, Meat & Fish",Fish & Seafood,Canned Seafood,upf,UPF,22008
+"Eggs, Meat & Fish",Fish & Seafood,Prawns & Shrimps,upf,UPF,22008
+"Eggs, Meat & Fish",Fish & Seafood,Other Seafood,upf,UPF,22008
+"Eggs, Meat & Fish",Pork & Other Meats,Fresh & Frozen Pork,fresho,Fresho,1847
+Gourmet & World Food,Oils & Vinegar,Extra Virgin Olive Oil,snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,Canola & Rapeseed Oil,snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,"Pure, Pomace Olive Oil",snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,Balsamic & Cider Vinegar,snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,Organic & Cold Press Oil,snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,Regular & White Vinegar,snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,Flavoured & Other Oils,snickers,Snickers,63
+Gourmet & World Food,Oils & Vinegar,Wine & Rice Vinegar,snickers,Snickers,63
+Gourmet & World Food,Dairy & Cheese,Flavoured & Greek Yogurt,happilo,Happilo,18533
+Gourmet & World Food,Dairy & Cheese,Tofu,happilo,Happilo,18533
+Gourmet & World Food,Dairy & Cheese,Milk & Soya Drinks,happilo,Happilo,18533
+Gourmet & World Food,Dairy & Cheese,Cream & Cheese Spreads,happilo,Happilo,18533
+Gourmet & World Food,Dairy & Cheese,International Cheese,happilo,Happilo,18533
+Gourmet & World Food,Dairy & Cheese,Gourmet Ice Cream,happilo,Happilo,18533
+Gourmet & World Food,Dairy & Cheese,Butter & Cream,happilo,Happilo,18533
+Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Nachos & Chips,gooddiet,GoodDiet,20545
+Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Dry Fruits & Berries,gooddiet,GoodDiet,20545
+Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Gourmet Popcorn,gooddiet,GoodDiet,20545
+Gourmet & World Food,"Snacks, Dry Fruits, Nuts","Healthy, Baked Snacks",gooddiet,GoodDiet,20545
+Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Roasted Seeds & Nuts,gooddiet,GoodDiet,20545
+Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Trail & Cocktail Mixes,gooddiet,GoodDiet,20545
+Gourmet & World Food,"Pasta, Soup & Noodles",Pastas & Spaghetti,borges,BORGES,693
+Gourmet & World Food,"Pasta, Soup & Noodles",Imported Noodles,borges,BORGES,693
+Gourmet & World Food,"Pasta, Soup & Noodles",Imported Soups,borges,BORGES,693
+Gourmet & World Food,"Pasta, Soup & Noodles",Jasmine & Sushi Rice,borges,BORGES,693
+Gourmet & World Food,Cereals & Breakfast,Muesli & Rice Cakes,epigamia,Epigamia ,14646
+Gourmet & World Food,Cereals & Breakfast,Imported Oats & Porridge,epigamia,Epigamia ,14646
+Gourmet & World Food,Cereals & Breakfast,Cereal & Granola Bars,epigamia,Epigamia ,14646
+Gourmet & World Food,Cereals & Breakfast,Gourmet Flakes,epigamia,Epigamia ,14646
+Gourmet & World Food,"Sauces, Spreads & Dips","Chocolate, Peanut Spread",disano,Disano,5462
+Gourmet & World Food,"Sauces, Spreads & Dips","Jams, Marmalade, Spreads",disano,Disano,5462
+Gourmet & World Food,"Sauces, Spreads & Dips","Hummus, Cheese, Salsa Dip",disano,Disano,5462
+Gourmet & World Food,"Sauces, Spreads & Dips",Mustard & Cheese Sauces,disano,Disano,5462
+Gourmet & World Food,"Sauces, Spreads & Dips",Salad Dressings,disano,Disano,5462
+Gourmet & World Food,"Sauces, Spreads & Dips",Thai & Asian Sauces,disano,Disano,5462
+Gourmet & World Food,"Sauces, Spreads & Dips",Honey & Maple Syrup,disano,Disano,5462
+Gourmet & World Food,Chocolates & Biscuits,International Chocolates,snickers,Snickers,63
+Gourmet & World Food,Chocolates & Biscuits,"Luxury Chocolates, Gifts",snickers,Snickers,63
+Gourmet & World Food,Chocolates & Biscuits,Crackers & Digestive,snickers,Snickers,63
+Gourmet & World Food,Chocolates & Biscuits,"Marshmallow, Candy, Jelly",snickers,Snickers,63
+Gourmet & World Food,Chocolates & Biscuits,"Cookies, Biscotti, Wafer",snickers,Snickers,63
+Gourmet & World Food,Cooking & Baking Needs,"Curry Paste, Coconut Milk",happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,"Cooking Chocolate, Cocoa",happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,Exotic Sugar & Salt,happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,Quinoa & Grains,happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,"Baking, Cake Decorations",happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,Flours & Pre-Mixes,happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,Baking Accessories,happilo,Happilo,18533
+Gourmet & World Food,Cooking & Baking Needs,"Herbs, Seasonings & Rubs",happilo,Happilo,18533
+Gourmet & World Food,Drinks & Beverages,Coffee & Pre-Mix,gooddiet,GoodDiet,20545
+Gourmet & World Food,Drinks & Beverages,"Aerated, Still, Sparkling",gooddiet,GoodDiet,20545
+Gourmet & World Food,Drinks & Beverages,Cocktail Mixes,gooddiet,GoodDiet,20545
+Gourmet & World Food,Drinks & Beverages,Health Drinks,gooddiet,GoodDiet,20545
+Gourmet & World Food,Drinks & Beverages,"Non-Alcoholic Beer, Wine",gooddiet,GoodDiet,20545
+Gourmet & World Food,Drinks & Beverages,Gourmet Juices & Drinks,gooddiet,GoodDiet,20545
+Gourmet & World Food,Drinks & Beverages,Gourmet Tea & Tea Bags,gooddiet,GoodDiet,20545
+Gourmet & World Food,Tinned & Processed Food,"Olive, Jalapeno, Gherkin",borges,BORGES,693
+Gourmet & World Food,Tinned & Processed Food,Beans & Pulses,borges,BORGES,693
+Gourmet & World Food,Tinned & Processed Food,Fruits & Pulps,borges,BORGES,693
+Gourmet & World Food,Tinned & Processed Food,Tomatoes & Vegetables,borges,BORGES,693
+Gourmet & World Food,Tinned & Processed Food,Fish & Tuna,borges,BORGES,693
+Gourmet & World Food,Tinned & Processed Food,Meats & Sausages,borges,BORGES,693
+Baby Care,Diapers & Wipes,Diapers,pampers,Pampers ,1048
+Baby Care,Diapers & Wipes,Baby Wipes,pampers,Pampers ,1048
+Baby Care,Diapers & Wipes,Nappies & Rash Cream,pampers,Pampers ,1048
+Baby Care,Baby Bath & Hygiene,Baby Bath,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Oil & Shampoo,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Buds,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Creams & Lotions,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Powder,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Laundry,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Oral Care,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Health,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Bath & Hygiene,Baby Gift Sets,johnsons-baby,Johnson's baby,6291
+Baby Care,Baby Food & Formula,Infant Formula,nestle,Nestle ,61
+Baby Care,Baby Food & Formula,Baby Food,nestle,Nestle ,61
+Baby Care,Baby Food & Formula,Organic Baby Food,nestle,Nestle ,61
+Baby Care,Mothers & Maternity,Maternity Health Supplements,himalaya-baby,Himalaya Baby,21800
+Baby Care,Mothers & Maternity,Maternity Personal Care,himalaya-baby,Himalaya Baby,21800
+Baby Care,Feeding & Nursing,Nursing Tools,sebamed,Sebamed,10435
+Baby Care,Feeding & Nursing,Sippers & Bottles,sebamed,Sebamed,10435
+Baby Care,Feeding & Nursing,Baby Dishes & Utensils,sebamed,Sebamed,10435
+Baby Care,Feeding & Nursing,Bibs & Napkins,sebamed,Sebamed,10435
+Baby Care,Baby Accessories,Other Baby Accessories,chicco,Chicco,1519
+Baby Care,Baby Accessories,"Combs, Brushes, Clippers",chicco,Chicco,1519
+Baby Care,Baby Accessories,Soothers & Teethers,chicco,Chicco,1519
+Baby Care,Baby Accessories,Baby Toys,chicco,Chicco,1519
+Baby Care,Baby Accessories,Kids Deo,chicco,Chicco,1519
