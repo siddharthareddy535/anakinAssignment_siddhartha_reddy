@@ -13,12 +13,26 @@ After that find the elements for extracting required data
 for finding we use driver.find_element(By.CLASS_NAME,"ant-layout").get_attribute("innerHTML")
 
 
-Analyze the captured data: After capturing the network traffic, you will need to analyze the captured data to extract the product information. Look for requests that contain the product data and extract the relevant information from the response.
+* Analyze the captured data: After capturing the network traffic, you will need to analyze the captured data to extract the product information. Look for requests that contain the product data and extract the relevant information from the response.
 
-Extract product data: Once you have identified the relevant requests, extract the product data by parsing the response and transforming it into a structured format like JSON or CSV.
+* Extract product data: Once you have identified the relevant requests, extract the product data by parsing the response and transforming it into a structured format like JSON or CSV.
 
-Store the extracted data: Finally, store the extracted product data in a database or a file for further analysis or processing.
+* Store the extracted data: Finally, store the extracted product data in a database or a file for further analysis or processing.
 
+>>>>>>>>>>>>>>>>For detailed steps are:
 
+Determine the URL structure: The first step is to determine the structure of the URLs on the website. This is important because it will help you to navigate the website and locate the pages that contain the product data.
+
+Identify the product categories: Once you understand the URL structure, the next step is to identify the product categories on the website. This can typically be done by exploring the main navigation menu on the homepage of the website.
+
+Access the product pages: Once you have identified the product categories, you can start accessing the pages that contain the product data. You can typically do this by following the links in the navigation menu or by using the search bar on the website.
+
+Scrape the product data: Once you have accessed the product pages, you can use web scraping tools to extract the relevant product data. This can typically be done by identifying the HTML elements that contain the product information (such as product name, description, price, etc.) and using a web scraping tool to extract this data.
+
+Clean and organize the data: Once you have extracted the product data, you will typically need to clean and organize it. This may involve removing duplicates, formatting the data in a consistent manner, and storing the data in a format that is suitable for further analysis (such as a CSV file or a database).
+
+Repeat for all product categories: Finally, you will need to repeat this process for all of the product categories on the website. This can be a time-consuming process, but it is necessary to ensure that you have a comprehensive dataset that includes all of the products on the website.
 
                *-----FOR MORE DETAILS PLZ VISIT 1stQ AND 2ndQ codes------*
+
+GITHUB REPO:https://github.com/siddharthareddy535/anakinAssignment_siddhartha_reddy.git
